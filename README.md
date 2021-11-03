@@ -3,15 +3,6 @@
 First file in the repo. Change.
 
 
-##Ipsum Below
+##Website Contents
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
-ncididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation u
-llamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- Excepteur sint occaecat cupidat
-
-re et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation u
-llamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- Excepteur sint occaecat cupidatat non proident, suntat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+1. index.html
